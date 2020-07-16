@@ -1,5 +1,3 @@
-<img align='right' src="https://github-readme-stats.vercel.app/api?username=koresamuel&show_icons=true">
-
 ## Hi there I'm KoreSamuel :lemon:
 
 [![dearxiaojie.top](https://img.shields.io/static/v1?label=dearxiaojie.top&message=%20&color=yellow&logo=&style=flat-square&logoColor=white)](https://dearxiaojie.top/)
@@ -10,3 +8,5 @@
     
 - 📚 I’m currently using **Typescript, Node.js, Webpack, Vue**
 - 🌱 Learning more about and studying: **Open Source, React, Node.js CS Algorithms**
+
+<img align='bottom' src="https://github-readme-stats.vercel.app/api?username=koresamuel&show_icons=true">
