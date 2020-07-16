@@ -8,5 +8,6 @@
     
 - 📚 I’m currently using **Typescript, Node.js, Webpack, Vue**
 - 🌱 Learning more about and studying: **Open Source, React, Node.js CS Algorithms**
+- ⚡ Text Editors: VS Code, WebStorm
 
 <img align='bottom' src="https://github-readme-stats.vercel.app/api?username=koresamuel&show_icons=true">
