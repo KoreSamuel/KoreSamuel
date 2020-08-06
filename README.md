@@ -7,7 +7,7 @@
 #### I'm a Front-End Developer based in Beijing, China
     
 - 📚 I’m currently using **Typescript, Node.js, Webpack, Vue**
-- 🌱 Learning more about and studying: **Open Source, React, Node.js CS Algorithms**
-- ⚡ Text Editors: VS Code, WebStorm
+- 🌱 Learning more about and studying: **Open Source, React, Python, Java, CS Algorithms**
+- ⚡ Text Editors: VS Code, IntelliJ IDEA
 
 <img align='bottom' src="https://github-readme-stats.vercel.app/api?username=koresamuel&show_icons=true">
