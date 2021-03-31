@@ -10,4 +10,7 @@
 - 🌱 Learning more about and studying: **Open Source, React, Python, Java, CS Algorithms**
 - ⚡ Text Editors: VS Code, IntelliJ IDEA
 
-<img align='bottom' src="https://github-readme-stats.vercel.app/api?username=koresamuel&show_icons=true">
+
+<p align="left">
+   <img src="https://github-readme-stats.vercel.app/api?username=koresamuel&show_icons=true" width="450">&nbsp;<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=koresamuel&layout=compact" height="177">
+</p>
