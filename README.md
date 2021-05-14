@@ -6,8 +6,8 @@
 
 #### I'm a Front-End Developer based in Beijing, China
     
-- 📚 I’m currently using **Typescript, Node.js, Webpack, Vue**
-- 🌱 Learning more about and studying: **Open Source, React, Python, Java, CS Algorithms**
+- 📚 I’m currently using **Typescript, Node.js, Webpack, React, Pandas**
+- 🌱 Learning more about and studying: **Open Source, React, Python, Java, CS Algorithms, System Design**
 - ⚡ Text Editors: VS Code, IntelliJ IDEA
 
 
