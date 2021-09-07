@@ -1,6 +1,8 @@
 ## Hi there I'm KoreSamuel :lemon:
 
 [![dearxiaojie.top](https://img.shields.io/static/v1?label=dearxiaojie.top&message=%20&color=yellow&logo=&style=flat-square&logoColor=white)](https://dearxiaojie.top/)
+[![kore-legendary.vercel.app](https://img.shields.io/static/v1?label=kore-legendary&message=%20&color=yellow&logo=&style=flat-square&logoColor=white)](https://kore-legendary.vercel.app)
+
 [![Twitter](https://img.shields.io/static/v1?label=Twitter&message=%20&color=orange&logo=Twitter&style=flat-square&logoColor=white)](https://twitter.com/dearxiaojie/)
 [![hexy.xiaojie@gmail.com](https://img.shields.io/static/v1?label=hexy.xiaojie@gmail.com&message=%20&color=red&logo=gmail&style=flat-square&logoColor=white)](mailto:hexy.xiaojie@gmail.com)
 
