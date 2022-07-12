@@ -9,7 +9,7 @@
 #### I'm a Front-End Developer based in Beijing, China
     
 - 📚 I’m currently using **Typescript, Node.js, Webpack, React, Python**
-- 🌱 Learning more about and studying: **Open Source, React, Java, CS Algorithms, System Design**
+- 🌱 Learning more about and studying: **Open Source, WebGL, React, Java, CS Algorithms, System Design**
 - ⚡ Text Editors: VS Code, IntelliJ IDEA
 
 
