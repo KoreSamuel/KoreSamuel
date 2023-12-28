@@ -14,6 +14,6 @@
 
 
 <p align="left">
-   <img align="center" src="https://github-readme-stats.vercel.app/api?username=koresamuel&show_icons=true&count_private=true" height="200">
-   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=koresamuel&layout=compact" height="200">
+   <img align="center" src="https://github-readme-stats.vercel.app/api?username=koresamuel&show_icons=true&count_private=true" height="150">
+   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=koresamuel&layout=compact" height="150">
 </p>
