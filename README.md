@@ -9,10 +9,11 @@
 #### I'm a Front-End Developer based in Beijing, China
     
 - 📚 I’m currently using **Typescript, Node.js, Webpack, React, Python**
-- 🌱 Learning more about and studying: **Open Source, WebGL, React, Java, CS Algorithms, System Design**
+- 🌱 Learning more about and studying: **Open Source, WebGL, React, CS Algorithms, System Design**
 - ⚡ Text Editors: VS Code, IntelliJ IDEA
 
 
 <p align="left">
-   <img src="https://github-readme-stats.vercel.app/api?username=koresamuel&show_icons=true" width="450">
+   <img align="center" src="https://github-readme-stats.vercel.app/api?username=koresamuel&show_icons=true&count_private=true" height="200">
+   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=koresamuel&layout=compact" height="200">
 </p>
