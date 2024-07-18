@@ -12,8 +12,4 @@
 - 🌱 Learning more about and studying: **Open Source, WebGL, React, CS Algorithms, System Design**
 - ⚡ Text Editors: VS Code, IntelliJ IDEA
 
-
-<p align="left">
-   <img align="center" src="https://github-readme-stats.vercel.app/api?username=koresamuel&show_icons=true&count_private=true" height="150">
-   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=koresamuel&layout=compact" height="150">
-</p>
+[![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)](https://github.com/piyushsuthar/github-readme-quotes)
