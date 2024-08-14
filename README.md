@@ -12,4 +12,4 @@
 - 🌱 Learning more about and studying: **Open Source, WebGL, React, CS Algorithms, System Design**
 - ⚡ Text Editors: VS Code, IntelliJ IDEA
 
-[![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)](https://github.com/piyushsuthar/github-readme-quotes)
+[![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)](https://dearxiaojie.top)
